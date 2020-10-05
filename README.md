@@ -40,16 +40,6 @@ This app is a tracking tool for the latest and trendiest videogames by using pre
 
   ****
 
-## Backlog
-
-- VideogamesList: image with a "play" button to initiate video if it has one.
-- Chat between seller and buyer in Marketplace
-- Ecommerce to make payments through our website
-- See offers via map
-- Edit videogame offer
-- State of videogame offer
-- Different states of favorite videogames: "to play", "playing", "beaten" & "dropped"
-
 # Client/Frontend
 
 ## React Router Routes (React App)
